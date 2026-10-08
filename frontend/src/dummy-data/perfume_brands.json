@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "brand_type_id": 1,
+    "slug": "jean-paul-gaultier",
+    "name": "Jean Paul Gaultier"
+  },
+  {
+    "id": 2,
+    "brand_type_id": 1,
+    "slug": "prada",
+    "name": "Prada"
+  },
+  {
+    "id": 3,
+    "brand_type_id": 1,
+    "slug": "azzaro",
+    "name": "Azzaro"
+  },
+  {
+    "id": 4,
+    "brand_type_id": 1,
+    "slug": "ysl",
+    "name": "Yves Saint Laurent"
+  },
+  {
+    "id": 5,
+    "brand_type_id": 1,
+    "slug": "valentino",
+    "name": "Valentino"
+  },
+  {
+    "id": 6,
+    "brand_type_id": 3,
+    "slug": "fa-paris",
+    "name": "French Avenue Paris"
+  },
+  {
+    "id": 7,
+    "brand_type_id": 3,
+    "slug": "maison-asrar",
+    "name": "Maison Asrar"
+  },
+  {
+    "id": 8,
+    "brand_type_id": 3,
+    "slug": "rayhaan",
+    "name": "Rayhaan"
+  },
+  {
+    "id": 9,
+    "brand_type_id": 1,
+    "slug": "maison-margiela-replica",
+    "name": "Maison Margiela Replica"
+  },
+  {
+    "id": 10,
+    "brand_type_id": 4,
+    "slug": "mykonos",
+    "name": "Mykonos"
+  }
+]

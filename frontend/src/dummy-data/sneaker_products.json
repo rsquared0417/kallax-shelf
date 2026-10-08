@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "brand-id": 3,
+    "slug": "fear-of-god-athletics-ii-putty-beige",
+    "name": "Fear of God Athletics II Putty Beige",
+    "model": "Athletics II",
+    "colorway": "Putty Beige",
+    "imageUrl": null
+  },
+  {
+    "id": 2,
+    "brand-id": 6,
+    "slug": "geo-forma-boot-acw-lily-white",
+    "name": "Geo Forma Boot ACW Lily White",
+    "model": "Geo Forma Boot",
+    "colorway": "ACW Lily White",
+    "imageUrl": null
+  },
+  {
+    "id": 3,
+    "brand-id": 7,
+    "slug": "tor-summit-moss-green-spruce-green",
+    "name": "Tor Summit Moss Green",
+    "model": "Tor Summit",
+    "colorway": "Moss Green / Spruce Green",
+    "imageUrl": null
+  },
+  {
+    "id": 4,
+    "brand-id": 2,
+    "slug": "jordan-1-retro-high-lost-and-found",
+    "name": "Jordan 1 Retro High Lost and Found",
+    "model": "Jordan 1 Retro High",
+    "colorway": "Lost and Found",
+    "imageUrl": null
+  },
+  {
+    "id": 5,
+    "brand-id": 4,
+    "slug": "new-balance-1906l-black-angora",
+    "name": "New Balance 1906L Black Angora",
+    "model": "1906L",
+    "colorway": "Black Angora",
+    "imageUrl": null
+  },
+  {
+    "id": 6,
+    "brand-id": 4,
+    "slug": "new-balance-1906r-cordura-linen",
+    "name": "New Balance 1906R Cordura Linen",
+    "model": "1906R",
+    "colorway": "Cordura Linen",
+    "imageUrl": null
+  },
+  {
+    "id": 7,
+    "brand-id": 4,
+    "slug": "new-balance-204l-year-of-the-horse-tan-black",
+    "name": "New Balance 204L Year of The Horse 2026 Tan",
+    "model": "204L",
+    "colorway": "Year of The Horse Tan / Black",
+    "imageUrl": null
+  },
+  {
+    "id": 8,
+    "brand-id": 1,
+    "slug": "nike-air-max-sndr-obsidian",
+    "name": "Nike Air Max SNDR Obsidian",
+    "model": "Air Max SNDR",
+    "colorway": "Obsidian",
+    "imageUrl": null
+  },
+  {
+    "id": 9,
+    "brand-id": 8,
+    "slug": "puma-x-rose-speedcat-premium-black-white",
+    "name": "Puma x Rose Speedcat Premium Black / White",
+    "model": "Speedcat Premium",
+    "colorway": "Black / White",
+    "imageUrl": null
+  },
+  {
+    "id": 10,
+    "brand-id": 10,
+    "slug": "salomon-x-sandy-liang-xt-6-expanse-cradle-pink",
+    "name": "Salomon x Sandy Liang XT-6 Expanse Cradle Pink",
+    "model": "XT-6 Expanse",
+    "colorway": "Cradle Pink",
+    "imageUrl": null
+  }
+]

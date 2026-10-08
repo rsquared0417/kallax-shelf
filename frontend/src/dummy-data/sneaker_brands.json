@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "slug": "nike",
+    "name": "Nike"
+  },
+  {
+    "id": 2,
+    "slug": "jordan-brand",
+    "name": "Jordan Brand"
+  },
+  {
+    "id": 3,
+    "slug": "adidas",
+    "name": "adidas"
+  },
+  {
+    "id": 4,
+    "slug": "new-balance",
+    "name": "New Balance"
+  },
+  {
+    "id": 5,
+    "slug": "asics",
+    "name": "ASICS"
+  },
+  {
+    "id": 6,
+    "slug": "converse",
+    "name": "Converse"
+  },
+  {
+    "id": 7,
+    "slug": "hoka",
+    "name": "Hoka"
+  },
+  {
+    "id": 8,
+    "slug": "puma",
+    "name": "Puma"
+  },
+  {
+    "id": 9,
+    "slug": "vans",
+    "name": "Vans"
+  },
+  {
+    "id": 10,
+    "slug": "salomon",
+    "name": "Salomon"
+  }
+]

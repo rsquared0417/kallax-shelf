@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "brand_id": 1,
+    "slug": "le-male-elixir",
+    "name": "Le Male Elixir",
+    "concentration": "Parfum",
+    "fragranceFamily": "Oriental Fougere",
+    "inspired_by": null,
+    "imageUrl": null
+  },
+  {
+    "id": 2,
+    "brand_id": 4,
+    "slug": "myslf-edp",
+    "name": "MYSLF Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "fragranceFamily": "Aromatic",
+    "inspired_by": null,
+    "imageUrl": null
+  },
+  {
+    "id": 3,
+    "brand_id": 2,
+    "slug": "luna-rossa-carbon-edt",
+    "name": "Luna Rossa Carbon Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "fragranceFamily": "Aromatic Fougere",
+    "inspired_by": null,
+    "imageUrl": null
+  },
+  {
+    "id": 4,
+    "brand_id": 4,
+    "slug": "myslf-labsolu",
+    "name": "MYSLF L'Absolu",
+    "concentration": "Parfum",
+    "fragranceFamily": "Woody Spicy",
+    "inspired_by": null,
+    "imageUrl": null
+  },
+  {
+    "id": 5,
+    "brand_id": 5,
+    "slug": "uomo-born-in-roman-intense",
+    "name": "Uomo Born in Roman Intense",
+    "concentration": "Eau de Parfum",
+    "fragranceFamily": "Oriental Vanilla",
+    "inspired_by": null,
+    "imageUrl": null
+  },
+  {
+    "id": 6,
+    "brand_id": 3,
+    "slug": "the-most-wanted-edt-intense",
+    "name": "The Most Wanted EDT Intense",
+    "concentration": "Eau de Toilette",
+    "fragranceFamily": "Woody Aromatic",
+    "inspired_by": null,
+    "imageUrl": null
+  },
+  {
+    "id": 7,
+    "brand_id": 8,
+    "slug": "cedrus-blanc",
+    "name": "Cedrus Blanc",
+    "concentration": "Eau de Parfum",
+    "fragranceFamily": "Floral Woody Musk",
+    "inspired_by": "Carolina Herrera Cedar Chic",
+    "imageUrl": null
+  },
+  {
+    "id": 8,
+    "brand_id": 6,
+    "slug": "vulcan-feu",
+    "name": "Vulcan Feu",
+    "concentration": "Eau de Parfum",
+    "fragranceFamily": "Tropical Floral",
+    "inspired_by": "Stephane Humbert Lucas 777 God of Fire",
+    "imageUrl": null
+  },
+  {
+    "id": 9,
+    "brand_id": 7,
+    "slug": "belgravia",
+    "name": "Belgravia",
+    "concentration": "Eau de Parfum",
+    "fragranceFamily": "Woody Floral Musk",
+    "inspired_by": "Byredo Bal D'afrique Absolu",
+    "imageUrl": null
+  },
+  {
+    "id": 10,
+    "brand_id": 10,
+    "slug": "inception",
+    "name": "Inception",
+    "concentration": "Extrait de Parfum",
+    "fragranceFamily": "Floral Fruity Gourmand",
+    "inspired_by": "Louis Vuitton Imagination",
+    "imageUrl": null
+  }
+]
