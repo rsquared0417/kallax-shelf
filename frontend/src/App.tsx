@@ -1,11 +1,20 @@
 import { Routes, Route } from "react-router";
-import { Dashboard } from "./pages/Dashboard";
+import { DashboardPage } from "./pages/DashboardPage";
+import { SneakersPage } from "./pages/SneakersPage";
+import { PerfumesPage } from "./pages/PerfumesPage";
+import { NotFoundPage } from "./pages/NotFoundPage";
+import { AppLayout } from "./components/layout/AppLayout";
 
 function App() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Dashboard />} />
+        <Route element={<AppLayout />}>
+          <Route path="/" element={<DashboardPage />} />
+          <Route path="/sneakers" element={<SneakersPage />} />
+          <Route path="/perfumes" element={<PerfumesPage />} />
+        </Route>
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </>
   );

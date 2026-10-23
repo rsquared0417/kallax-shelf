@@ -6,8 +6,8 @@
     "name": "Le Male Elixir",
     "concentration": "Parfum",
     "fragranceFamily": "Oriental Fougere",
-    "inspired_by": null,
-    "imageUrl": null
+    "inspired_by": "",
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 2,
@@ -16,8 +16,8 @@
     "name": "MYSLF Eau de Parfum",
     "concentration": "Eau de Parfum",
     "fragranceFamily": "Aromatic",
-    "inspired_by": null,
-    "imageUrl": null
+    "inspired_by": "",
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 3,
@@ -26,8 +26,8 @@
     "name": "Luna Rossa Carbon Eau de Toilette",
     "concentration": "Eau de Toilette",
     "fragranceFamily": "Aromatic Fougere",
-    "inspired_by": null,
-    "imageUrl": null
+    "inspired_by": "",
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 4,
@@ -36,8 +36,8 @@
     "name": "MYSLF L'Absolu",
     "concentration": "Parfum",
     "fragranceFamily": "Woody Spicy",
-    "inspired_by": null,
-    "imageUrl": null
+    "inspired_by": "",
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 5,
@@ -46,8 +46,8 @@
     "name": "Uomo Born in Roman Intense",
     "concentration": "Eau de Parfum",
     "fragranceFamily": "Oriental Vanilla",
-    "inspired_by": null,
-    "imageUrl": null
+    "inspired_by": "",
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 6,
@@ -56,8 +56,8 @@
     "name": "The Most Wanted EDT Intense",
     "concentration": "Eau de Toilette",
     "fragranceFamily": "Woody Aromatic",
-    "inspired_by": null,
-    "imageUrl": null
+    "inspired_by": "",
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "concentration": "Eau de Parfum",
     "fragranceFamily": "Floral Woody Musk",
     "inspired_by": "Carolina Herrera Cedar Chic",
-    "imageUrl": null
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "concentration": "Eau de Parfum",
     "fragranceFamily": "Tropical Floral",
     "inspired_by": "Stephane Humbert Lucas 777 God of Fire",
-    "imageUrl": null
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "concentration": "Eau de Parfum",
     "fragranceFamily": "Woody Floral Musk",
     "inspired_by": "Byredo Bal D'afrique Absolu",
-    "imageUrl": null
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   },
   {
     "id": 10,
@@ -97,6 +97,6 @@
     "concentration": "Extrait de Parfum",
     "fragranceFamily": "Floral Fruity Gourmand",
     "inspired_by": "Louis Vuitton Imagination",
-    "imageUrl": null
+    "imageUrl": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg"
   }
 ]
